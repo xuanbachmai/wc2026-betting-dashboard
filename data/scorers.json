@@ -1,0 +1,2616 @@
+{
+  "mexico vs south africa": {
+    "match_no": 1,
+    "date": "2026-06-11",
+    "home": "Mexico",
+    "away": "South Africa",
+    "goals": [
+      {
+        "scorer": "Julián Quiñones",
+        "assist": "Érik Lira",
+        "team": "Mexico",
+        "clock": "9'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Raúl Jiménez",
+        "assist": "Roberto Alvarado",
+        "team": "Mexico",
+        "clock": "67'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "south korea vs czech republic": {
+    "match_no": 2,
+    "date": "2026-06-11",
+    "home": "South Korea",
+    "away": "Czech Republic",
+    "goals": [
+      {
+        "scorer": "Ladislav Krejcí",
+        "assist": "Vladimír Coufal",
+        "team": "Czechia",
+        "clock": "59'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Hwang In-Beom",
+        "assist": "Lee Kang-In",
+        "team": "South Korea",
+        "clock": "67'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Oh Hyeon-Gyu",
+        "assist": "Hwang In-Beom",
+        "team": "South Korea",
+        "clock": "80'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "canada vs bosnia and herzegovina": {
+    "match_no": 3,
+    "date": "2026-06-12",
+    "home": "Canada",
+    "away": "Bosnia and Herzegovina",
+    "goals": [
+      {
+        "scorer": "Jovo Lukic",
+        "assist": "Sead Kolasinac",
+        "team": "Bosnia-Herzegovina",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Cyle Larin",
+        "assist": "Promise David",
+        "team": "Canada",
+        "clock": "78'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "united states vs paraguay": {
+    "match_no": 4,
+    "date": "2026-06-12",
+    "home": "United States",
+    "away": "Paraguay",
+    "goals": [
+      {
+        "scorer": "Damián Bobadilla",
+        "assist": "",
+        "team": "United States",
+        "clock": "7'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Folarin Balogun",
+        "assist": "Christian Pulisic",
+        "team": "United States",
+        "clock": "31'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Folarin Balogun",
+        "assist": "Malik Tillman",
+        "team": "United States",
+        "clock": "45'+5'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Maurício",
+        "assist": "Julio Enciso",
+        "team": "Paraguay",
+        "clock": "73'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Giovanni Reyna",
+        "assist": "Alex Freeman",
+        "team": "United States",
+        "clock": "90'+8'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "haiti vs scotland": {
+    "match_no": 5,
+    "date": "2026-06-13",
+    "home": "Haiti",
+    "away": "Scotland",
+    "goals": [
+      {
+        "scorer": "John McGinn",
+        "assist": "",
+        "team": "Scotland",
+        "clock": "28'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "australia vs turkey": {
+    "match_no": 6,
+    "date": "2026-06-13",
+    "home": "Australia",
+    "away": "Turkey",
+    "goals": [
+      {
+        "scorer": "Nestory Irankunda",
+        "assist": "Paul Okon-Engstler",
+        "team": "Australia",
+        "clock": "27'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Connor Metcalfe",
+        "assist": "",
+        "team": "Australia",
+        "clock": "75'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "brazil vs morocco": {
+    "match_no": 7,
+    "date": "2026-06-13",
+    "home": "Brazil",
+    "away": "Morocco",
+    "goals": [
+      {
+        "scorer": "Ismael Saibari",
+        "assist": "Brahim Díaz",
+        "team": "Morocco",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Vinícius Júnior",
+        "assist": "Bruno Guimarães",
+        "team": "Brazil",
+        "clock": "32'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "qatar vs switzerland": {
+    "match_no": 8,
+    "date": "2026-06-13",
+    "home": "Qatar",
+    "away": "Switzerland",
+    "goals": [
+      {
+        "scorer": "Miro Muheim",
+        "assist": "Homam Ahmed",
+        "team": "Qatar",
+        "clock": "90'+4'",
+        "kind": "og"
+      }
+    ]
+  },
+  "ivory coast vs ecuador": {
+    "match_no": 9,
+    "date": "2026-06-14",
+    "home": "Ivory Coast",
+    "away": "Ecuador",
+    "goals": [
+      {
+        "scorer": "Amad Diallo",
+        "assist": "Wilfried Singo",
+        "team": "Ivory Coast",
+        "clock": "90'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "germany vs curacao": {
+    "match_no": 10,
+    "date": "2026-06-14",
+    "home": "Germany",
+    "away": "Curacao",
+    "goals": [
+      {
+        "scorer": "Felix Nmecha",
+        "assist": "Florian Wirtz",
+        "team": "Germany",
+        "clock": "6'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Livano Comenencia",
+        "assist": "",
+        "team": "Curaçao",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nico Schlotterbeck",
+        "assist": "Nathaniel Brown",
+        "team": "Germany",
+        "clock": "38'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jamal Musiala",
+        "assist": "Joshua Kimmich",
+        "team": "Germany",
+        "clock": "47'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nathaniel Brown",
+        "assist": "Deniz Undav",
+        "team": "Germany",
+        "clock": "68'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Deniz Undav",
+        "assist": "Joshua Kimmich",
+        "team": "Germany",
+        "clock": "78'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kai Havertz",
+        "assist": "Deniz Undav",
+        "team": "Germany",
+        "clock": "88'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "netherlands vs japan": {
+    "match_no": 11,
+    "date": "2026-06-14",
+    "home": "Netherlands",
+    "away": "Japan",
+    "goals": [
+      {
+        "scorer": "Virgil van Dijk",
+        "assist": "Ryan Gravenberch",
+        "team": "Netherlands",
+        "clock": "51'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Keito Nakamura",
+        "assist": "Takefusa Kubo",
+        "team": "Japan",
+        "clock": "57'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Crysencio Summerville",
+        "assist": "Ryan Gravenberch",
+        "team": "Netherlands",
+        "clock": "64'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Daichi Kamada",
+        "assist": "Koki Ogawa",
+        "team": "Japan",
+        "clock": "89'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "sweden vs tunisia": {
+    "match_no": 12,
+    "date": "2026-06-14",
+    "home": "Sweden",
+    "away": "Tunisia",
+    "goals": [
+      {
+        "scorer": "Yasin Ayari",
+        "assist": "",
+        "team": "Sweden",
+        "clock": "7'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Alexander Isak",
+        "assist": "Viktor Gyökeres",
+        "team": "Sweden",
+        "clock": "30'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Omar Rekik",
+        "assist": "Hannibal Mejbri",
+        "team": "Tunisia",
+        "clock": "43'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Viktor Gyökeres",
+        "assist": "Alexander Isak",
+        "team": "Sweden",
+        "clock": "59'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mattias Svanberg",
+        "assist": "Alexander Isak",
+        "team": "Sweden",
+        "clock": "84'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Yasin Ayari",
+        "assist": "Lucas Bergvall",
+        "team": "Sweden",
+        "clock": "90'+6'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "saudi arabia vs uruguay": {
+    "match_no": 13,
+    "date": "2026-06-15",
+    "home": "Saudi Arabia",
+    "away": "Uruguay",
+    "goals": [
+      {
+        "scorer": "Abdulelah Al-Amri",
+        "assist": "",
+        "team": "Saudi Arabia",
+        "clock": "41'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Maxi Araújo",
+        "assist": "",
+        "team": "Uruguay",
+        "clock": "80'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "spain vs cabo verde": {
+    "match_no": 14,
+    "date": "2026-06-15",
+    "home": "Spain",
+    "away": "Cabo Verde",
+    "goals": []
+  },
+  "iran vs new zealand": {
+    "match_no": 15,
+    "date": "2026-06-15",
+    "home": "Iran",
+    "away": "New Zealand",
+    "goals": [
+      {
+        "scorer": "Elijah Just",
+        "assist": "Chris Wood",
+        "team": "New Zealand",
+        "clock": "7'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ramin Rezaeian",
+        "assist": "",
+        "team": "Iran",
+        "clock": "32'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Elijah Just",
+        "assist": "Chris Wood",
+        "team": "New Zealand",
+        "clock": "54'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mohammad Mohebbi",
+        "assist": "Ramin Rezaeian",
+        "team": "Iran",
+        "clock": "64'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "belgium vs egypt": {
+    "match_no": 16,
+    "date": "2026-06-15",
+    "home": "Belgium",
+    "away": "Egypt",
+    "goals": [
+      {
+        "scorer": "Emam Ashour",
+        "assist": "Mohamed Salah",
+        "team": "Egypt",
+        "clock": "20'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mohamed Hany",
+        "assist": "",
+        "team": "Belgium",
+        "clock": "66'",
+        "kind": "og"
+      }
+    ]
+  },
+  "france vs senegal": {
+    "match_no": 17,
+    "date": "2026-06-16",
+    "home": "France",
+    "away": "Senegal",
+    "goals": [
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "Michael Olise",
+        "team": "France",
+        "clock": "66'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Bradley Barcola",
+        "assist": "Adrien Rabiot",
+        "team": "France",
+        "clock": "82'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ibrahim Mbaye",
+        "assist": "Iliman Ndiaye",
+        "team": "Senegal",
+        "clock": "90'+5'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "",
+        "team": "France",
+        "clock": "90'+6'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "iraq vs norway": {
+    "match_no": 18,
+    "date": "2026-06-16",
+    "home": "Iraq",
+    "away": "Norway",
+    "goals": [
+      {
+        "scorer": "Erling Haaland",
+        "assist": "David Møller Wolfe",
+        "team": "Norway",
+        "clock": "29'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Aymen Hussein",
+        "assist": "Amir Al-Ammari",
+        "team": "Iraq",
+        "clock": "39'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Erling Haaland",
+        "assist": "",
+        "team": "Norway",
+        "clock": "43'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Leo Østigard",
+        "assist": "Martin Ødegaard",
+        "team": "Norway",
+        "clock": "76'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Aymen Hussein",
+        "assist": "",
+        "team": "Norway",
+        "clock": "90'+6'",
+        "kind": "og"
+      }
+    ]
+  },
+  "argentina vs algeria": {
+    "match_no": 19,
+    "date": "2026-06-16",
+    "home": "Argentina",
+    "away": "Algeria",
+    "goals": [
+      {
+        "scorer": "Lionel Messi",
+        "assist": "Rodrigo De Paul",
+        "team": "Argentina",
+        "clock": "17'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Lionel Messi",
+        "assist": "",
+        "team": "Argentina",
+        "clock": "60'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Lionel Messi",
+        "assist": "Nico González",
+        "team": "Argentina",
+        "clock": "76'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "austria vs jordan": {
+    "match_no": 20,
+    "date": "2026-06-17",
+    "home": "Austria",
+    "away": "Jordan",
+    "goals": [
+      {
+        "scorer": "Romano Schmid",
+        "assist": "Xaver Schlager",
+        "team": "Austria",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ali Olwan",
+        "assist": "Noor Al-Rawabdeh",
+        "team": "Jordan",
+        "clock": "50'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Yazan Al-Arab",
+        "assist": "",
+        "team": "Austria",
+        "clock": "76'",
+        "kind": "og"
+      }
+    ]
+  },
+  "ghana vs panama": {
+    "match_no": 21,
+    "date": "2026-06-17",
+    "home": "Ghana",
+    "away": "Panama",
+    "goals": [
+      {
+        "scorer": "Caleb Yirenkyi",
+        "assist": "Brandon Thomas-Asante",
+        "team": "Ghana",
+        "clock": "90'+5'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "england vs croatia": {
+    "match_no": 22,
+    "date": "2026-06-17",
+    "home": "England",
+    "away": "Croatia",
+    "goals": [
+      {
+        "scorer": "Martin Baturina",
+        "assist": "Petar Sucic",
+        "team": "Croatia",
+        "clock": "36'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Harry Kane",
+        "assist": "Declan Rice",
+        "team": "England",
+        "clock": "42'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Petar Musa",
+        "assist": "Ivan Perisic",
+        "team": "Croatia",
+        "clock": "45'+5'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jude Bellingham",
+        "assist": "Elliot Anderson",
+        "team": "England",
+        "clock": "47'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Marcus Rashford",
+        "assist": "Bukayo Saka",
+        "team": "England",
+        "clock": "85'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "portugal vs congo dr": {
+    "match_no": 23,
+    "date": "2026-06-17",
+    "home": "Portugal",
+    "away": "Congo DR",
+    "goals": [
+      {
+        "scorer": "João Neves",
+        "assist": "Pedro Neto",
+        "team": "Portugal",
+        "clock": "6'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Yoane Wissa",
+        "assist": "Arthur Masuaku",
+        "team": "Congo DR",
+        "clock": "45'+5'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "uzbekistan vs colombia": {
+    "match_no": 24,
+    "date": "2026-06-17",
+    "home": "Uzbekistan",
+    "away": "Colombia",
+    "goals": [
+      {
+        "scorer": "Daniel Muñoz",
+        "assist": "Luis Díaz",
+        "team": "Colombia",
+        "clock": "40'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Abbosbek Fayzullaev",
+        "assist": "",
+        "team": "Uzbekistan",
+        "clock": "60'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Luis Díaz",
+        "assist": "Gustavo Puerta",
+        "team": "Colombia",
+        "clock": "65'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jáminton Campaz",
+        "assist": "Cucho Hernández",
+        "team": "Colombia",
+        "clock": "90'+9'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "czech republic vs south africa": {
+    "match_no": 25,
+    "date": "2026-06-18",
+    "home": "Czech Republic",
+    "away": "South Africa",
+    "goals": [
+      {
+        "scorer": "Michal Sadílek",
+        "assist": "Alexandr Sojka",
+        "team": "Czechia",
+        "clock": "6'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "switzerland vs bosnia and herzegovina": {
+    "match_no": 26,
+    "date": "2026-06-18",
+    "home": "Switzerland",
+    "away": "Bosnia and Herzegovina",
+    "goals": [
+      {
+        "scorer": "Johan Manzambi",
+        "assist": "",
+        "team": "Switzerland",
+        "clock": "74'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Rubén Vargas",
+        "assist": "Breel Embolo",
+        "team": "Switzerland",
+        "clock": "84'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Johan Manzambi",
+        "assist": "Rubén Vargas",
+        "team": "Switzerland",
+        "clock": "90'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ermin Mahmic",
+        "assist": "",
+        "team": "Bosnia-Herzegovina",
+        "clock": "90'+3'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "canada vs qatar": {
+    "match_no": 27,
+    "date": "2026-06-18",
+    "home": "Canada",
+    "away": "Qatar",
+    "goals": [
+      {
+        "scorer": "Cyle Larin",
+        "assist": "",
+        "team": "Canada",
+        "clock": "16'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jonathan David",
+        "assist": "",
+        "team": "Canada",
+        "clock": "29'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jonathan David",
+        "assist": "",
+        "team": "Canada",
+        "clock": "45'+3'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nathan Saliba",
+        "assist": "",
+        "team": "Canada",
+        "clock": "64'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mohamed Manai",
+        "assist": "",
+        "team": "Canada",
+        "clock": "75'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Jonathan David",
+        "assist": "Nathan Saliba",
+        "team": "Canada",
+        "clock": "90'+2'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "mexico vs south korea": {
+    "match_no": 28,
+    "date": "2026-06-18",
+    "home": "Mexico",
+    "away": "South Korea",
+    "goals": [
+      {
+        "scorer": "Luis Romo",
+        "assist": "",
+        "team": "Mexico",
+        "clock": "50'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "brazil vs haiti": {
+    "match_no": 29,
+    "date": "2026-06-19",
+    "home": "Brazil",
+    "away": "Haiti",
+    "goals": [
+      {
+        "scorer": "Matheus Cunha",
+        "assist": "",
+        "team": "Brazil",
+        "clock": "23'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Matheus Cunha",
+        "assist": "Vinícius Júnior",
+        "team": "Brazil",
+        "clock": "36'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Vinícius Júnior",
+        "assist": "Lucas Paquetá",
+        "team": "Brazil",
+        "clock": "45'+3'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "scotland vs morocco": {
+    "match_no": 30,
+    "date": "2026-06-19",
+    "home": "Scotland",
+    "away": "Morocco",
+    "goals": [
+      {
+        "scorer": "Ismael Saibari",
+        "assist": "Brahim Díaz",
+        "team": "Morocco",
+        "clock": "2'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "turkey vs paraguay": {
+    "match_no": 31,
+    "date": "2026-06-19",
+    "home": "Turkey",
+    "away": "Paraguay",
+    "goals": [
+      {
+        "scorer": "Matías Galarza",
+        "assist": "Julio Enciso",
+        "team": "Paraguay",
+        "clock": "2'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "united states vs australia": {
+    "match_no": 32,
+    "date": "2026-06-19",
+    "home": "United States",
+    "away": "Australia",
+    "goals": [
+      {
+        "scorer": "Cameron Burgess",
+        "assist": "",
+        "team": "United States",
+        "clock": "11'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Alex Freeman",
+        "assist": "",
+        "team": "United States",
+        "clock": "43'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "germany vs ivory coast": {
+    "match_no": 33,
+    "date": "2026-06-20",
+    "home": "Germany",
+    "away": "Ivory Coast",
+    "goals": [
+      {
+        "scorer": "Franck Kessié",
+        "assist": "",
+        "team": "Ivory Coast",
+        "clock": "30'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Deniz Undav",
+        "assist": "Nadiem Amiri",
+        "team": "Germany",
+        "clock": "68'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Deniz Undav",
+        "assist": "Felix Nmecha",
+        "team": "Germany",
+        "clock": "90'+4'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "ecuador vs curacao": {
+    "match_no": 34,
+    "date": "2026-06-20",
+    "home": "Ecuador",
+    "away": "Curacao",
+    "goals": []
+  },
+  "netherlands vs sweden": {
+    "match_no": 35,
+    "date": "2026-06-20",
+    "home": "Netherlands",
+    "away": "Sweden",
+    "goals": [
+      {
+        "scorer": "Brian Brobbey",
+        "assist": "Cody Gakpo",
+        "team": "Netherlands",
+        "clock": "5'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Brian Brobbey",
+        "assist": "Denzel Dumfries",
+        "team": "Netherlands",
+        "clock": "17'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Cody Gakpo",
+        "assist": "Denzel Dumfries",
+        "team": "Netherlands",
+        "clock": "47'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Cody Gakpo",
+        "assist": "Crysencio Summerville",
+        "team": "Netherlands",
+        "clock": "54'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Anthony Elanga",
+        "assist": "Alexander Isak",
+        "team": "Sweden",
+        "clock": "59'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Crysencio Summerville",
+        "assist": "Memphis Depay",
+        "team": "Netherlands",
+        "clock": "89'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "tunisia vs japan": {
+    "match_no": 36,
+    "date": "2026-06-20",
+    "home": "Tunisia",
+    "away": "Japan",
+    "goals": [
+      {
+        "scorer": "Daichi Kamada",
+        "assist": "Keito Nakamura",
+        "team": "Japan",
+        "clock": "4'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ayase Ueda",
+        "assist": "Kou Itakura",
+        "team": "Japan",
+        "clock": "31'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Junya Ito",
+        "assist": "Ayase Ueda",
+        "team": "Japan",
+        "clock": "69'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ayase Ueda",
+        "assist": "Kaishu Sano",
+        "team": "Japan",
+        "clock": "83'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "uruguay vs cabo verde": {
+    "match_no": 37,
+    "date": "2026-06-21",
+    "home": "Uruguay",
+    "away": "Cabo Verde",
+    "goals": [
+      {
+        "scorer": "Kevin Pina",
+        "assist": "",
+        "team": "Cape Verde",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Maxi Araújo",
+        "assist": "",
+        "team": "Uruguay",
+        "clock": "44'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Agustín Canobbio",
+        "assist": "Maxi Araújo",
+        "team": "Uruguay",
+        "clock": "45'+6'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Hélio Varela",
+        "assist": "",
+        "team": "Cape Verde",
+        "clock": "61'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "spain vs saudi arabia": {
+    "match_no": 38,
+    "date": "2026-06-21",
+    "home": "Spain",
+    "away": "Saudi Arabia",
+    "goals": [
+      {
+        "scorer": "Lamine Yamal",
+        "assist": "Mikel Oyarzabal",
+        "team": "Spain",
+        "clock": "10'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mikel Oyarzabal",
+        "assist": "Aymeric Laporte",
+        "team": "Spain",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mikel Oyarzabal",
+        "assist": "Dani Olmo",
+        "team": "Spain",
+        "clock": "24'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Hassan Al-Tambakti",
+        "assist": "",
+        "team": "Spain",
+        "clock": "49'",
+        "kind": "og"
+      }
+    ]
+  },
+  "belgium vs iran": {
+    "match_no": 39,
+    "date": "2026-06-21",
+    "home": "Belgium",
+    "away": "Iran",
+    "goals": []
+  },
+  "new zealand vs egypt": {
+    "match_no": 40,
+    "date": "2026-06-21",
+    "home": "New Zealand",
+    "away": "Egypt",
+    "goals": [
+      {
+        "scorer": "Finn Surman",
+        "assist": "Tim Payne",
+        "team": "New Zealand",
+        "clock": "15'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mostafa Zico",
+        "assist": "Mohamed Hany",
+        "team": "Egypt",
+        "clock": "58'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mohamed Salah",
+        "assist": "Mostafa Zico",
+        "team": "Egypt",
+        "clock": "67'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Trézéguet",
+        "assist": "Mohamed Salah",
+        "team": "Egypt",
+        "clock": "82'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "norway vs senegal": {
+    "match_no": 41,
+    "date": "2026-06-22",
+    "home": "Norway",
+    "away": "Senegal",
+    "goals": [
+      {
+        "scorer": "Marcus Holmgren Pedersen",
+        "assist": "",
+        "team": "Norway",
+        "clock": "43'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Erling Haaland",
+        "assist": "Martin Ødegaard",
+        "team": "Norway",
+        "clock": "48'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ismaïla Sarr",
+        "assist": "Sadio Mané",
+        "team": "Senegal",
+        "clock": "53'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Erling Haaland",
+        "assist": "Patrick Berg",
+        "team": "Norway",
+        "clock": "58'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ismaïla Sarr",
+        "assist": "Nicolas Jackson",
+        "team": "Senegal",
+        "clock": "90'+3'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "france vs iraq": {
+    "match_no": 42,
+    "date": "2026-06-22",
+    "home": "France",
+    "away": "Iraq",
+    "goals": [
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "Michael Olise",
+        "team": "France",
+        "clock": "14'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "Ousmane Dembélé",
+        "team": "France",
+        "clock": "54'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ousmane Dembélé",
+        "assist": "Michael Olise",
+        "team": "France",
+        "clock": "66'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "argentina vs austria": {
+    "match_no": 43,
+    "date": "2026-06-22",
+    "home": "Argentina",
+    "away": "Austria",
+    "goals": [
+      {
+        "scorer": "Lionel Messi",
+        "assist": "Facundo Medina",
+        "team": "Argentina",
+        "clock": "38'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Lionel Messi",
+        "assist": "",
+        "team": "Argentina",
+        "clock": "90'+5'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "jordan vs algeria": {
+    "match_no": 44,
+    "date": "2026-06-22",
+    "home": "Jordan",
+    "away": "Algeria",
+    "goals": [
+      {
+        "scorer": "Nizar Al-Rashdan",
+        "assist": "Mousa Al-Tamari",
+        "team": "Jordan",
+        "clock": "36'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nadhir Benbouali",
+        "assist": "Riyad Mahrez",
+        "team": "Algeria",
+        "clock": "69'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Amine Gouiri",
+        "assist": "",
+        "team": "Algeria",
+        "clock": "82'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "england vs ghana": {
+    "match_no": 45,
+    "date": "2026-06-23",
+    "home": "England",
+    "away": "Ghana",
+    "goals": []
+  },
+  "panama vs croatia": {
+    "match_no": 46,
+    "date": "2026-06-23",
+    "home": "Panama",
+    "away": "Croatia",
+    "goals": [
+      {
+        "scorer": "Ante Budimir",
+        "assist": "Josip Stanisic",
+        "team": "Croatia",
+        "clock": "54'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "portugal vs uzbekistan": {
+    "match_no": 47,
+    "date": "2026-06-23",
+    "home": "Portugal",
+    "away": "Uzbekistan",
+    "goals": [
+      {
+        "scorer": "Cristiano Ronaldo",
+        "assist": "João Cancelo",
+        "team": "Portugal",
+        "clock": "6'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nuno Mendes",
+        "assist": "",
+        "team": "Portugal",
+        "clock": "17'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Cristiano Ronaldo",
+        "assist": "Bruno Fernandes",
+        "team": "Portugal",
+        "clock": "39'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Abduvohid Nematov",
+        "assist": "",
+        "team": "Portugal",
+        "clock": "60'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Rafael Leão",
+        "assist": "",
+        "team": "Portugal",
+        "clock": "87'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "colombia vs congo dr": {
+    "match_no": 48,
+    "date": "2026-06-23",
+    "home": "Colombia",
+    "away": "Congo DR",
+    "goals": [
+      {
+        "scorer": "Daniel Muñoz",
+        "assist": "Juan Fernando Quintero",
+        "team": "Colombia",
+        "clock": "76'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "scotland vs brazil": {
+    "match_no": 49,
+    "date": "2026-06-24",
+    "home": "Scotland",
+    "away": "Brazil",
+    "goals": [
+      {
+        "scorer": "Vinícius Júnior",
+        "assist": "Rayan",
+        "team": "Brazil",
+        "clock": "7'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Vinícius Júnior",
+        "assist": "Bruno Guimarães",
+        "team": "Brazil",
+        "clock": "45'+3'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Matheus Cunha",
+        "assist": "Bruno Guimarães",
+        "team": "Brazil",
+        "clock": "60'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "morocco vs haiti": {
+    "match_no": 50,
+    "date": "2026-06-24",
+    "home": "Morocco",
+    "away": "Haiti",
+    "goals": [
+      {
+        "scorer": "Yassine Bounou",
+        "assist": "Jean-Kévin Duverne",
+        "team": "Haiti",
+        "clock": "10'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Achraf Hakimi",
+        "assist": "",
+        "team": "Morocco",
+        "clock": "39'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Wilson Isidor",
+        "assist": "Jean-Kévin Duverne",
+        "team": "Haiti",
+        "clock": "43'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ismael Saibari",
+        "assist": "Achraf Hakimi",
+        "team": "Morocco",
+        "clock": "45'+1'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Soufiane Rahimi",
+        "assist": "Chadi Riad",
+        "team": "Morocco",
+        "clock": "78'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Gessime Yassine",
+        "assist": "Soufiane Rahimi",
+        "team": "Morocco",
+        "clock": "89'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "bosnia and herzegovina vs qatar": {
+    "match_no": 52,
+    "date": "2026-06-24",
+    "home": "Bosnia and Herzegovina",
+    "away": "Qatar",
+    "goals": [
+      {
+        "scorer": "Kerim Alajbegovic",
+        "assist": "Ivan Basic",
+        "team": "Bosnia-Herzegovina",
+        "clock": "29'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mahmoud Abunada",
+        "assist": "",
+        "team": "Bosnia-Herzegovina",
+        "clock": "34'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Hassan Al-Haydos",
+        "assist": "Edmílson Junior",
+        "team": "Qatar",
+        "clock": "42'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ermin Mahmic",
+        "assist": "Dennis Hadzikadunic",
+        "team": "Bosnia-Herzegovina",
+        "clock": "80'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "czech republic vs mexico": {
+    "match_no": 53,
+    "date": "2026-06-24",
+    "home": "Czech Republic",
+    "away": "Mexico",
+    "goals": [
+      {
+        "scorer": "Mateo Chávez",
+        "assist": "Luis Romo",
+        "team": "Mexico",
+        "clock": "55'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Julián Quiñones",
+        "assist": "Jorge Sánchez",
+        "team": "Mexico",
+        "clock": "61'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Álvaro Fidalgo",
+        "assist": "Roberto Alvarado",
+        "team": "Mexico",
+        "clock": "90'+4'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "south africa vs south korea": {
+    "match_no": 54,
+    "date": "2026-06-24",
+    "home": "South Africa",
+    "away": "South Korea",
+    "goals": [
+      {
+        "scorer": "Thapelo Maseko",
+        "assist": "Tshepang Moremi",
+        "team": "South Africa",
+        "clock": "63'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "curacao vs ivory coast": {
+    "match_no": 55,
+    "date": "2026-06-25",
+    "home": "Curacao",
+    "away": "Ivory Coast",
+    "goals": [
+      {
+        "scorer": "Nicolas Pépé",
+        "assist": "Yan Diomande",
+        "team": "Ivory Coast",
+        "clock": "7'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nicolas Pépé",
+        "assist": "Ibrahim Sangaré",
+        "team": "Ivory Coast",
+        "clock": "64'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "ecuador vs germany": {
+    "match_no": 56,
+    "date": "2026-06-25",
+    "home": "Ecuador",
+    "away": "Germany",
+    "goals": [
+      {
+        "scorer": "Leroy Sané",
+        "assist": "Florian Wirtz",
+        "team": "Germany",
+        "clock": "2'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nilson Angulo",
+        "assist": "Pedro Vite",
+        "team": "Ecuador",
+        "clock": "9'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Gonzalo Plata",
+        "assist": "Kevin Rodríguez",
+        "team": "Ecuador",
+        "clock": "77'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "japan vs sweden": {
+    "match_no": 57,
+    "date": "2026-06-25",
+    "home": "Japan",
+    "away": "Sweden",
+    "goals": [
+      {
+        "scorer": "Daizen Maeda",
+        "assist": "Ritsu Doan",
+        "team": "Japan",
+        "clock": "56'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Anthony Elanga",
+        "assist": "Viktor Gyökeres",
+        "team": "Sweden",
+        "clock": "62'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "tunisia vs netherlands": {
+    "match_no": 58,
+    "date": "2026-06-25",
+    "home": "Tunisia",
+    "away": "Netherlands",
+    "goals": [
+      {
+        "scorer": "Ellyes Skhiri",
+        "assist": "",
+        "team": "Netherlands",
+        "clock": "3'",
+        "kind": "og"
+      },
+      {
+        "scorer": "Brian Brobbey",
+        "assist": "Virgil van Dijk",
+        "team": "Netherlands",
+        "clock": "7'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Hazem Mastouri",
+        "assist": "Hannibal Mejbri",
+        "team": "Tunisia",
+        "clock": "54'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jan Paul van Hecke",
+        "assist": "Tijjani Reijnders",
+        "team": "Netherlands",
+        "clock": "62'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "turkey vs united states": {
+    "match_no": 59,
+    "date": "2026-06-25",
+    "home": "Turkey",
+    "away": "United States",
+    "goals": [
+      {
+        "scorer": "Auston Trusty",
+        "assist": "Sebastian Berhalter",
+        "team": "United States",
+        "clock": "3'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Arda Güler",
+        "assist": "Baris Alper Yilmaz",
+        "team": "Türkiye",
+        "clock": "10'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Baris Alper Yilmaz",
+        "assist": "Orkun Kökçü",
+        "team": "Türkiye",
+        "clock": "31'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Sebastian Berhalter",
+        "assist": "",
+        "team": "United States",
+        "clock": "49'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kaan Ayhan",
+        "assist": "",
+        "team": "Türkiye",
+        "clock": "90'+8'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "paraguay vs australia": {
+    "match_no": 60,
+    "date": "2026-06-25",
+    "home": "Paraguay",
+    "away": "Australia",
+    "goals": []
+  },
+  "norway vs france": {
+    "match_no": 61,
+    "date": "2026-06-26",
+    "home": "Norway",
+    "away": "France",
+    "goals": [
+      {
+        "scorer": "Ousmane Dembélé",
+        "assist": "Kylian Mbappé",
+        "team": "France",
+        "clock": "7'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ousmane Dembélé",
+        "assist": "Kylian Mbappé",
+        "team": "France",
+        "clock": "20'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Thelo Aasgaard",
+        "assist": "Andreas Schjelderup",
+        "team": "Norway",
+        "clock": "21'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ousmane Dembélé",
+        "assist": "Aurélien Tchouaméni",
+        "team": "France",
+        "clock": "32'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Désiré Doué",
+        "assist": "Bradley Barcola",
+        "team": "France",
+        "clock": "90'+4'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "senegal vs iraq": {
+    "match_no": 62,
+    "date": "2026-06-26",
+    "home": "Senegal",
+    "away": "Iraq",
+    "goals": [
+      {
+        "scorer": "Habib Diarra",
+        "assist": "Abdoulaye Seck",
+        "team": "Senegal",
+        "clock": "4'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ismaïla Sarr",
+        "assist": "Lamine Camara",
+        "team": "Senegal",
+        "clock": "56'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Pape Gueye",
+        "assist": "Ismaïla Sarr",
+        "team": "Senegal",
+        "clock": "59'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Pape Gueye",
+        "assist": "Iliman Ndiaye",
+        "team": "Senegal",
+        "clock": "71'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Iliman Ndiaye",
+        "assist": "Pape Gueye",
+        "team": "Senegal",
+        "clock": "82'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "egypt vs iran": {
+    "match_no": 63,
+    "date": "2026-06-26",
+    "home": "Egypt",
+    "away": "Iran",
+    "goals": [
+      {
+        "scorer": "Mahmoud Saber",
+        "assist": "Trézéguet",
+        "team": "Egypt",
+        "clock": "5'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ramin Rezaeian",
+        "assist": "",
+        "team": "Iran",
+        "clock": "14'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "new zealand vs belgium": {
+    "match_no": 64,
+    "date": "2026-06-26",
+    "home": "New Zealand",
+    "away": "Belgium",
+    "goals": [
+      {
+        "scorer": "Leandro Trossard",
+        "assist": "",
+        "team": "Belgium",
+        "clock": "28'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Leandro Trossard",
+        "assist": "Hans Vanaken",
+        "team": "Belgium",
+        "clock": "50'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kevin De Bruyne",
+        "assist": "",
+        "team": "Belgium",
+        "clock": "66'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Elijah Just",
+        "assist": "",
+        "team": "New Zealand",
+        "clock": "84'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Romelu Lukaku",
+        "assist": "Nicolas Raskin",
+        "team": "Belgium",
+        "clock": "86'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Alexis Saelemaekers",
+        "assist": "Romelu Lukaku",
+        "team": "Belgium",
+        "clock": "90'+4'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "cabo verde vs saudi arabia": {
+    "match_no": 65,
+    "date": "2026-06-26",
+    "home": "Cabo Verde",
+    "away": "Saudi Arabia",
+    "goals": []
+  },
+  "uruguay vs spain": {
+    "match_no": 66,
+    "date": "2026-06-26",
+    "home": "Uruguay",
+    "away": "Spain",
+    "goals": [
+      {
+        "scorer": "Álex Baena",
+        "assist": "Marcos Llorente",
+        "team": "Spain",
+        "clock": "42'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "panama vs england": {
+    "match_no": 67,
+    "date": "2026-06-27",
+    "home": "Panama",
+    "away": "England",
+    "goals": [
+      {
+        "scorer": "Jude Bellingham",
+        "assist": "Bukayo Saka",
+        "team": "England",
+        "clock": "62'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Harry Kane",
+        "assist": "Jude Bellingham",
+        "team": "England",
+        "clock": "67'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "croatia vs ghana": {
+    "match_no": 68,
+    "date": "2026-06-27",
+    "home": "Croatia",
+    "away": "Ghana",
+    "goals": [
+      {
+        "scorer": "Petar Sucic",
+        "assist": "Mateo Kovacic",
+        "team": "Croatia",
+        "clock": "31'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Derrick Luckassen",
+        "assist": "Ernest Nuamah",
+        "team": "Ghana",
+        "clock": "73'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Nikola Vlasic",
+        "assist": "Luka Modric",
+        "team": "Croatia",
+        "clock": "83'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "algeria vs austria": {
+    "match_no": 69,
+    "date": "2026-06-27",
+    "home": "Algeria",
+    "away": "Austria",
+    "goals": [
+      {
+        "scorer": "Marko Arnautovic",
+        "assist": "David Alaba",
+        "team": "Austria",
+        "clock": "28'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Rafik Belghali",
+        "assist": "",
+        "team": "Algeria",
+        "clock": "45'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Marcel Sabitzer",
+        "assist": "Konrad Laimer",
+        "team": "Austria",
+        "clock": "55'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Riyad Mahrez",
+        "assist": "Houssem Aouar",
+        "team": "Algeria",
+        "clock": "60'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Riyad Mahrez",
+        "assist": "Houssem Aouar",
+        "team": "Algeria",
+        "clock": "90'+3'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Sasa Kalajdzic",
+        "assist": "Michael Gregoritsch",
+        "team": "Austria",
+        "clock": "90'+6'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "jordan vs argentina": {
+    "match_no": 70,
+    "date": "2026-06-27",
+    "home": "Jordan",
+    "away": "Argentina",
+    "goals": [
+      {
+        "scorer": "Giovani Lo Celso",
+        "assist": "",
+        "team": "Argentina",
+        "clock": "19'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mousa Al-Tamari",
+        "assist": "Ehsan Haddad",
+        "team": "Jordan",
+        "clock": "55'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Lionel Messi",
+        "assist": "",
+        "team": "Argentina",
+        "clock": "80'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "colombia vs portugal": {
+    "match_no": 71,
+    "date": "2026-06-27",
+    "home": "Colombia",
+    "away": "Portugal",
+    "goals": []
+  },
+  "congo dr vs uzbekistan": {
+    "match_no": 72,
+    "date": "2026-06-27",
+    "home": "Congo DR",
+    "away": "Uzbekistan",
+    "goals": [
+      {
+        "scorer": "Eldor Shomurodov",
+        "assist": "Akmal Mozgovoy",
+        "team": "Uzbekistan",
+        "clock": "10'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Fiston Mayele",
+        "assist": "",
+        "team": "Congo DR",
+        "clock": "78'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Yoane Wissa",
+        "assist": "Meschack Elia",
+        "team": "Congo DR",
+        "clock": "90'+1'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "south africa vs canada": {
+    "match_no": 73,
+    "date": "2026-06-28",
+    "home": "South Africa",
+    "away": "Canada",
+    "goals": [
+      {
+        "scorer": "Stephen Eustáquio",
+        "assist": "",
+        "team": "Canada",
+        "clock": "90'+2'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "germany vs paraguay": {
+    "match_no": 74,
+    "date": "2026-06-29",
+    "home": "Germany",
+    "away": "Paraguay",
+    "goals": [
+      {
+        "scorer": "Julio Enciso",
+        "assist": "Matías Galarza",
+        "team": "Paraguay",
+        "clock": "42'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kai Havertz",
+        "assist": "Florian Wirtz",
+        "team": "Germany",
+        "clock": "54'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "netherlands vs morocco": {
+    "match_no": 75,
+    "date": "2026-06-29",
+    "home": "Netherlands",
+    "away": "Morocco",
+    "goals": [
+      {
+        "scorer": "Cody Gakpo",
+        "assist": "Crysencio Summerville",
+        "team": "Netherlands",
+        "clock": "72'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Issa Diop",
+        "assist": "Chemsdine Talbi",
+        "team": "Morocco",
+        "clock": "90'+1'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "brazil vs japan": {
+    "match_no": 76,
+    "date": "2026-06-29",
+    "home": "Brazil",
+    "away": "Japan",
+    "goals": [
+      {
+        "scorer": "Kaishu Sano",
+        "assist": "",
+        "team": "Japan",
+        "clock": "29'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Casemiro",
+        "assist": "Gabriel Magalhães",
+        "team": "Brazil",
+        "clock": "56'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Gabriel Martinelli",
+        "assist": "Bruno Guimarães",
+        "team": "Brazil",
+        "clock": "90'+5'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "france vs sweden": {
+    "match_no": 77,
+    "date": "2026-06-30",
+    "home": "France",
+    "away": "Sweden",
+    "goals": [
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "Ousmane Dembélé",
+        "team": "France",
+        "clock": "45'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Bradley Barcola",
+        "assist": "Michael Olise",
+        "team": "France",
+        "clock": "53'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "Michael Olise",
+        "team": "France",
+        "clock": "74'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "ivory coast vs norway": {
+    "match_no": 78,
+    "date": "2026-06-30",
+    "home": "Ivory Coast",
+    "away": "Norway",
+    "goals": [
+      {
+        "scorer": "Antonio Nusa",
+        "assist": "Martin Ødegaard",
+        "team": "Norway",
+        "clock": "39'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Amad Diallo",
+        "assist": "Nicolas Pépé",
+        "team": "Ivory Coast",
+        "clock": "74'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Erling Haaland",
+        "assist": "Patrick Berg",
+        "team": "Norway",
+        "clock": "86'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "mexico vs ecuador": {
+    "match_no": 79,
+    "date": "2026-06-30",
+    "home": "Mexico",
+    "away": "Ecuador",
+    "goals": [
+      {
+        "scorer": "Julián Quiñones",
+        "assist": "Roberto Alvarado",
+        "team": "Mexico",
+        "clock": "22'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Raúl Jiménez",
+        "assist": "Julián Quiñones",
+        "team": "Mexico",
+        "clock": "31'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "united states vs bosnia and herzegovina": {
+    "match_no": 81,
+    "date": "2026-07-01",
+    "home": "United States",
+    "away": "Bosnia and Herzegovina",
+    "goals": [
+      {
+        "scorer": "Folarin Balogun",
+        "assist": "",
+        "team": "United States",
+        "clock": "45'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Malik Tillman",
+        "assist": "",
+        "team": "United States",
+        "clock": "82'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "belgium vs senegal": {
+    "match_no": 82,
+    "date": "2026-07-01",
+    "home": "Belgium",
+    "away": "Senegal",
+    "goals": [
+      {
+        "scorer": "Habib Diarra",
+        "assist": "",
+        "team": "Senegal",
+        "clock": "24'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ismaïla Sarr",
+        "assist": "Moussa Niakhaté",
+        "team": "Senegal",
+        "clock": "51'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Romelu Lukaku",
+        "assist": "Thomas Meunier",
+        "team": "Belgium",
+        "clock": "86'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Youri Tielemans",
+        "assist": "Leandro Trossard",
+        "team": "Belgium",
+        "clock": "89'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "portugal vs croatia": {
+    "match_no": 83,
+    "date": "2026-07-02",
+    "home": "Portugal",
+    "away": "Croatia",
+    "goals": [
+      {
+        "scorer": "Ivan Perisic",
+        "assist": "",
+        "team": "Croatia",
+        "clock": "53'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Gonçalo Ramos",
+        "assist": "Rafael Leão",
+        "team": "Portugal",
+        "clock": "90'+4'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "spain vs austria": {
+    "match_no": 84,
+    "date": "2026-07-02",
+    "home": "Spain",
+    "away": "Austria",
+    "goals": [
+      {
+        "scorer": "Mikel Oyarzabal",
+        "assist": "Marc Cucurella",
+        "team": "Spain",
+        "clock": "36'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Pedro Porro",
+        "assist": "Álex Baena",
+        "team": "Spain",
+        "clock": "66'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mikel Oyarzabal",
+        "assist": "Marc Cucurella",
+        "team": "Spain",
+        "clock": "89'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "switzerland vs algeria": {
+    "match_no": 85,
+    "date": "2026-07-02",
+    "home": "Switzerland",
+    "away": "Algeria",
+    "goals": [
+      {
+        "scorer": "Breel Embolo",
+        "assist": "Johan Manzambi",
+        "team": "Switzerland",
+        "clock": "10'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Dan Ndoye",
+        "assist": "",
+        "team": "Switzerland",
+        "clock": "46'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "argentina vs cabo verde": {
+    "match_no": 86,
+    "date": "2026-07-03",
+    "home": "Argentina",
+    "away": "Cabo Verde",
+    "goals": [
+      {
+        "scorer": "Lionel Messi",
+        "assist": "Lisandro Martínez",
+        "team": "Argentina",
+        "clock": "29'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Deroy Duarte",
+        "assist": "Ryan Mendes",
+        "team": "Cape Verde",
+        "clock": "59'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Lisandro Martínez",
+        "assist": "Alexis Mac Allister",
+        "team": "Argentina",
+        "clock": "92'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Sidny Lopes Cabral",
+        "assist": "Yannick Semedo",
+        "team": "Cape Verde",
+        "clock": "103'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Diney Borges",
+        "assist": "",
+        "team": "Argentina",
+        "clock": "111'",
+        "kind": "og"
+      }
+    ]
+  },
+  "colombia vs ghana": {
+    "match_no": 87,
+    "date": "2026-07-03",
+    "home": "Colombia",
+    "away": "Ghana",
+    "goals": [
+      {
+        "scorer": "Jhon Arias",
+        "assist": "Luis Suárez",
+        "team": "Colombia",
+        "clock": "14'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "australia vs egypt": {
+    "match_no": 88,
+    "date": "2026-07-03",
+    "home": "Australia",
+    "away": "Egypt",
+    "goals": [
+      {
+        "scorer": "Emam Ashour",
+        "assist": "Karim Hafez",
+        "team": "Egypt",
+        "clock": "13'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mohamed Hany",
+        "assist": "",
+        "team": "Australia",
+        "clock": "55'",
+        "kind": "og"
+      }
+    ]
+  },
+  "paraguay vs france": {
+    "match_no": 89,
+    "date": "2026-07-04",
+    "home": "Paraguay",
+    "away": "France",
+    "goals": []
+  },
+  "canada vs morocco": {
+    "match_no": 90,
+    "date": "2026-07-04",
+    "home": "Canada",
+    "away": "Morocco",
+    "goals": [
+      {
+        "scorer": "Azzedine Ounahi",
+        "assist": "Achraf Hakimi",
+        "team": "Morocco",
+        "clock": "50'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Azzedine Ounahi",
+        "assist": "Brahim Díaz",
+        "team": "Morocco",
+        "clock": "82'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Soufiane Rahimi",
+        "assist": "Brahim Díaz",
+        "team": "Morocco",
+        "clock": "90'+8'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "brazil vs norway": {
+    "match_no": 91,
+    "date": "2026-07-05",
+    "home": "Brazil",
+    "away": "Norway",
+    "goals": [
+      {
+        "scorer": "Erling Haaland",
+        "assist": "Andreas Schjelderup",
+        "team": "Norway",
+        "clock": "79'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Erling Haaland",
+        "assist": "Andreas Schjelderup",
+        "team": "Norway",
+        "clock": "90'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "mexico vs england": {
+    "match_no": 92,
+    "date": "2026-07-05",
+    "home": "Mexico",
+    "away": "England",
+    "goals": [
+      {
+        "scorer": "Jude Bellingham",
+        "assist": "Bukayo Saka",
+        "team": "England",
+        "clock": "36'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Jude Bellingham",
+        "assist": "Harry Kane",
+        "team": "England",
+        "clock": "38'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Julián Quiñones",
+        "assist": "",
+        "team": "Mexico",
+        "clock": "42'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "portugal vs spain": {
+    "match_no": 93,
+    "date": "2026-07-06",
+    "home": "Portugal",
+    "away": "Spain",
+    "goals": [
+      {
+        "scorer": "Mikel Merino",
+        "assist": "Ferran Torres",
+        "team": "Spain",
+        "clock": "90'+1'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "united states vs belgium": {
+    "match_no": 94,
+    "date": "2026-07-06",
+    "home": "United States",
+    "away": "Belgium",
+    "goals": [
+      {
+        "scorer": "Charles De Ketelaere",
+        "assist": "Nicolas Raskin",
+        "team": "Belgium",
+        "clock": "9'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Malik Tillman",
+        "assist": "",
+        "team": "United States",
+        "clock": "31'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Charles De Ketelaere",
+        "assist": "Leandro Trossard",
+        "team": "Belgium",
+        "clock": "33'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Hans Vanaken",
+        "assist": "Charles De Ketelaere",
+        "team": "Belgium",
+        "clock": "57'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Romelu Lukaku",
+        "assist": "Hans Vanaken",
+        "team": "Belgium",
+        "clock": "90'+3'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "argentina vs egypt": {
+    "match_no": 95,
+    "date": "2026-07-07",
+    "home": "Argentina",
+    "away": "Egypt",
+    "goals": [
+      {
+        "scorer": "Yasser Ibrahim",
+        "assist": "Marawan Attia",
+        "team": "Egypt",
+        "clock": "15'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mostafa Zico",
+        "assist": "Haissem Hassan",
+        "team": "Egypt",
+        "clock": "67'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Cristian Romero",
+        "assist": "Lionel Messi",
+        "team": "Argentina",
+        "clock": "79'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Lionel Messi",
+        "assist": "Gonzalo Montiel",
+        "team": "Argentina",
+        "clock": "83'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Enzo Fernández",
+        "assist": "Lautaro Martínez",
+        "team": "Argentina",
+        "clock": "90'+2'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "switzerland vs colombia": {
+    "match_no": 96,
+    "date": "2026-07-07",
+    "home": "Switzerland",
+    "away": "Colombia",
+    "goals": []
+  },
+  "france vs morocco": {
+    "match_no": 97,
+    "date": "2026-07-09",
+    "home": "France",
+    "away": "Morocco",
+    "goals": [
+      {
+        "scorer": "Kylian Mbappé",
+        "assist": "Désiré Doué",
+        "team": "France",
+        "clock": "60'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Ousmane Dembélé",
+        "assist": "Kylian Mbappé",
+        "team": "France",
+        "clock": "66'",
+        "kind": "goal"
+      }
+    ]
+  },
+  "spain vs belgium": {
+    "match_no": 98,
+    "date": "2026-07-10",
+    "home": "Spain",
+    "away": "Belgium",
+    "goals": [
+      {
+        "scorer": "Fabián Ruiz",
+        "assist": "",
+        "team": "Spain",
+        "clock": "30'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Charles De Ketelaere",
+        "assist": "Timothy Castagne",
+        "team": "Belgium",
+        "clock": "41'",
+        "kind": "goal"
+      },
+      {
+        "scorer": "Mikel Merino",
+        "assist": "",
+        "team": "Spain",
+        "clock": "88'",
+        "kind": "goal"
+      }
+    ]
+  }
+}

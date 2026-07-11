@@ -1,0 +1,86 @@
+name: Update results & deploy dashboard
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"      # check for new results every 5 min (GitHub's minimum)
+  workflow_dispatch:            # manual trigger (always rebuilds)
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch new results from ESPN
+        id: results
+        run: |
+          out=$(python update_results.py)
+          echo "$out"
+          if echo "$out" | grep -q CHANGED; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Decide whether to rebuild
+        id: decide
+        run: |
+          if [ "${{ steps.results.outputs.changed }}" = "true" ] || [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "build=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "build=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build dashboard
+        if: steps.decide.outputs.build == 'true'
+        run: python engine.py
+
+      - name: Commit updated schedule + dashboard back to repo
+        if: steps.results.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedule.py output/dashboard.html models/online_state.json models/pipeline_cache.pkl data/corners_bias_learned.json data/actual_corners.json 2>/dev/null || true
+          git commit -m "Auto-update match results [skip ci]"
+          git pull --rebase --autostash
+          git push
+
+      - name: Prepare site
+        if: steps.decide.outputs.build == 'true'
+        run: |
+          mkdir -p _site
+          cp output/dashboard.html _site/index.html
+
+      - name: Upload Pages artifact
+        if: steps.decide.outputs.build == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        if: steps.decide.outputs.build == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4

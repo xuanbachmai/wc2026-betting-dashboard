@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Logs
+*.log
+
+# Oversized data (>GitHub 100MB limit) — regenerate with fetch_polymarket_flow.py
+data/polymarket_flow.json
+
+# Separate project, not part of the dashboard
+wc2026_bot/
+
+# Local editor/session
+.claude/
