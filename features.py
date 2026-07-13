@@ -20,7 +20,6 @@ Features per match:
 """
 
 import pandas as pd
-import numpy as np
 from config import FORM_GAMES, GOALS_WINDOW
 
 

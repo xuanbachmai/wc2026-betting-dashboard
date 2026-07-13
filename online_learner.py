@@ -25,7 +25,6 @@ import numpy as np
 import pandas as pd
 from pathlib import Path
 from datetime import datetime
-from collections import defaultdict
 
 STATE_FILE   = Path("models/online_state.json")
 WC_CSV       = Path("data/wc_2026_results.csv")
@@ -373,12 +372,12 @@ class OnlineLearner:
             self.state["xg_bias_home"] = combined_bias
             self.state["xg_bias_away"] = combined_bias
 
-        self._log_biases()
+        self._log_biases(len(all_errors))
 
-    def _log_biases(self):
+    def _log_biases(self, n_observations: int = 0):
         print(f"[learner] Bias update → "
               f"xg_bias={self.state['xg_bias_home']:+.3f}  "
-              f"(from {len(all_errors) if 'all_errors' in dir() else '?'} goal observations)")
+              f"(from {n_observations} goal observations)")
 
     # ── XGBoost fine-tuning ───────────────────────────────────────────────────
 

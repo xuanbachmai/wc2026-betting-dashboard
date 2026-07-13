@@ -7,7 +7,6 @@ so features built from ELO never use future information (no data leakage).
 """
 
 import pandas as pd
-import numpy as np
 from config import ELO_INITIAL, ELO_K_NORMAL, ELO_K_WC
 
 

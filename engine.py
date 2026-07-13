@@ -14,15 +14,10 @@ Sections
 
 import argparse, json, math, os
 import numpy as np
-import pandas as pd
 from pathlib import Path
 from itertools import combinations
-from collections import Counter
-from scipy.stats import poisson
-from tqdm import tqdm
 
 import data, elo as elo_module, features as feat_module, model as model_module
-from features import FEATURE_COLS
 from simulate import _build_match_features, precompute_lambdas
 from team_intelligence import get_intel_features, TEAM_INTEL
 from config import WC_2026_GROUPS, FIFA_DISPLAY_NAMES

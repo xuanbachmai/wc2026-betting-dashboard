@@ -6,11 +6,17 @@ __pycache__/
 # Logs
 *.log
 
-# Oversized data (>GitHub 100MB limit) — regenerate with fetch_polymarket_flow.py
-data/polymarket_flow.json
-
 # Separate project, not part of the dashboard
 wc2026_bot/
 
 # Local editor/session
 .claude/
+
+# Regenerable binaries & runtime caches (rebuilt automatically)
+models/pipeline_cache.pkl
+data/news_cache.json
+data/espn_scores.json
+data/live_scores.json
+data/results_meta.json
+output/*.csv
+output/*.png

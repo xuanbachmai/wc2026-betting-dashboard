@@ -11,14 +11,14 @@ Backfills missed results at startup and hourly. Browser reloads itself via SSE.
 """
 
 from __future__ import annotations
-import json, os, re, ssl, subprocess, sys, threading, time, urllib.request
+import json, os, re, subprocess, sys, threading, time, urllib.request
 from datetime import datetime
 from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 HTTPServer = ThreadingHTTPServer  # alias so rest of code unchanged
 from pathlib import Path
 from scipy.stats import poisson
 
-from update_results import (NAME_MAP, norm, espn_get, patch_schedule,
+from update_results import (norm, espn_get, patch_schedule,
                             backfill_results, ESPN_SCORE, _SSL)
 
 PORT = int(os.environ.get("PORT", 8765))       # cloud hosts inject PORT

@@ -17,7 +17,6 @@ Key empirical findings:
 """
 
 from __future__ import annotations
-import math
 from scipy.stats import poisson
 
 # ── Style → base corner generation rate ──────────────────────────────────────

@@ -21,7 +21,6 @@ in as extra kwargs so the base model constants stay clean.
 from __future__ import annotations
 import json
 from pathlib import Path
-from collections import defaultdict
 
 from schedule import SCHEDULE
 

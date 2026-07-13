@@ -23,7 +23,6 @@ import numpy as np
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-import seaborn as sns
 from pathlib import Path
 
 import data
@@ -31,7 +30,6 @@ import elo as elo_module
 import features as feat_module
 import model as model_module
 import simulate as sim_module
-from features import FEATURE_COLS
 
 
 # ── Utilities ─────────────────────────────────────────────────────────────────
